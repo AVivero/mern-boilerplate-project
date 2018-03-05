@@ -1,5 +1,5 @@
 {
-  "name": "React-Chat",
+  "name": "MERN-Boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,7 +15,6 @@
     "babel-loader": "^6.2.0",
     "babel-preset-es2015": "^6.1.18",
     "babel-preset-react": "^6.1.18",
-    "jquery": "^2.2.4",
     "webpack": "^1.12.9"
   },
   "dependencies": {
